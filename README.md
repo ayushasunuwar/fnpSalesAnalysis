@@ -1,5 +1,8 @@
 # Sales Analysis Dashboard
 
+## Dashboard Preview
+![Dashboard Screenshot](image/screenshot.png)
+
 ## Project Overview
 This project is an interactive Sales Analysis Dashboard built in Microsoft Excel to analyze sales performance and generate business insights.
 
